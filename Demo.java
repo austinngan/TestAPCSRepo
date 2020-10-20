@@ -1,7 +1,6 @@
 public class Demo{
   public static void main(String[]args){
     int num = 0;
-    String abba="";
     if (args.length==0){
       num=5;
     }
